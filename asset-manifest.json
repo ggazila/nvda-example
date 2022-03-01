@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/nvda-test/static/js/main.c4104a21.js",
+    "static/js/787.b2bfa5bd.chunk.js": "/nvda-test/static/js/787.b2bfa5bd.chunk.js",
+    "index.html": "/nvda-test/index.html",
+    "main.c4104a21.js.map": "/nvda-test/static/js/main.c4104a21.js.map",
+    "787.b2bfa5bd.chunk.js.map": "/nvda-test/static/js/787.b2bfa5bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4104a21.js"
+  ]
+}
